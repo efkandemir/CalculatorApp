@@ -1,0 +1,22 @@
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\EFKAN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\EFKAN\Desktop\Calculator App\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
